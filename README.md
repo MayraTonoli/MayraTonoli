@@ -29,7 +29,7 @@
     <a href = "mailto: work.mayratonolijobs@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "https://www.linkedin.com/in/mayra-tonoli/">
+    <a href = "https://www.linkedin.com/in/mayratonoli/">
       <img width="25" src="linkedin.svg">
     </a>
    <!-- <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
