@@ -14,6 +14,7 @@
       	<img align="center" height="30" width="40" alt="css-icon" src="css-3.png">
      </div>
    
+   <div>
     <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: work.mayratonolijobs@gmail.com">
       <img width="30" src="gmail.svg">
@@ -27,3 +28,4 @@
     <a href = "https://www.instagram.com/devparadev/">
       <img width="25" src="instagram.png"> 
     </a> -->
+  </div>
