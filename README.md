@@ -8,24 +8,24 @@
 
 <div>
        <div align="center">
-        <h1 align="center">Portifólio</h1>
-          <h2>Conheça alguns dos projetos desenvolvidos por mim</h2>
+        <h2 align="center">Portifólio</h2>
+          <h4>Conheça alguns dos projetos desenvolvidos por mim</h4>
             <a href = "https://mayratonoli.github.io/Projeto-de-site-proprio/">
-             <img width="25" src=".png">
+             <img width="100px" src="logopessoal.png">
         
       
 
-<!--<div align="center">
+<div align="center">
     <div style="display: inline_block"><br>
-      	<img align="left" height="250" alt="logo" src="M.png">
-      <h1 align="center"> Meus conhecimentos <3</h1>
+      	<img align="left" height="250" alt="logo" src="logosimples.png">
+      <h3 align="center"> Meus conhecimentos</h3>
          <img align="center" height="30" width="40" alt="html-icon" src="html-5.png">
       	<img align="center" height="30" width="40" alt="css-icon" src="css-3.png">
-     </div>-->
+     </div>
      
         
    <div>
-    <h1 align="center">Entre em contato</h1>
+    <h3 align="center">Entre em contato</h3>
     <a href = "mailto: work.mayratonolijobs@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
