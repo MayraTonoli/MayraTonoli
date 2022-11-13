@@ -1,8 +1,8 @@
 ## Venha me conhecer um pouco mais
 <div>
   
-  <img align="left" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayraTonoli&layout=compact&langs_count=16&theme=buefy"/>
-  <img  height="140em" src="https://github-readme-stats.vercel.app/api?username=MayraTonoli&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
+  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayraTonoli&layout=compact&langs_count=16&theme=buefy"/>
+  <img  height="120em" src="https://github-readme-stats.vercel.app/api?username=MayraTonoli&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
   
 </div>
 
