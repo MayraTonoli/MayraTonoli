@@ -10,7 +10,7 @@
        <div align="center">
         <h2 align="center">Portifólio</h2>
           <h4>Conheça alguns dos projetos desenvolvidos por mim</h4>
-            <a href = "https://mayratonoli.github.io/Projeto-de-site-proprio/">
+            <a href = "https://mayratonoli.github.io/Projeto-site-pessoal/">
              <img width="100px" src="logopessoal.png">
         
       
