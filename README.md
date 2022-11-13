@@ -6,14 +6,24 @@
   
 </div>
 
-  <div align="center">
+<div>
+       <div align="center">
+        <h1 align="center">Portifólio</h1>
+          <h2>Conheça alguns dos projetos desenvolvidos por mim</h2>
+            <a href = "https://mayratonoli.github.io/Projeto-de-site-proprio/">
+             <img width="25" src=".png">
+        
+      
+
+<!--<div align="center">
     <div style="display: inline_block"><br>
       	<img align="left" height="250" alt="logo" src="M.png">
       <h1 align="center"> Meus conhecimentos <3</h1>
          <img align="center" height="30" width="40" alt="html-icon" src="html-5.png">
       	<img align="center" height="30" width="40" alt="css-icon" src="css-3.png">
-     </div>
-   
+     </div>-->
+     
+        
    <div>
     <h1 align="center">Entre em contato</h1>
     <a href = "mailto: work.mayratonolijobs@gmail.com">
