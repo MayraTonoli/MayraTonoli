@@ -26,18 +26,12 @@
         
    <div>
     <h3 align="center">Entre em contato</h3>
-    <a href = "mailto: work.mayratonolijobs@gmail.com">
-      <img width="30" src="gmail.svg">
-    </a>
-    <a href = "https://www.linkedin.com/in/mayratonoli/">
-      <img width="25" src="linkedin.svg">
-    </a>
-   <!-- <a href = "https://www.youtube.com/channel/UCd5Ivcm28R1C3fCQKbOx2cg">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png"> 
-    </a> -->
+      <a href = "mailto: work.mayratonolijobs@gmail.com">
+         <img width="30" src="gmail.svg">
+      </a>
+      <a href = "https://www.linkedin.com/in/mayratonoli/">
+         <img width="25" src="linkedin.svg">
+     </a>
   </div>
   
               
@@ -47,7 +41,7 @@
   
   <div align="center">
     <h3 align="center">Currículo</h3>
-    <a href = "https://drive.google.com/file/d/1P4r8sqwDr3wQJyPU24_Fuelp8MbmMaca/view?usp=share_link" target = "_blank">
+      <a href = "https://drive.google.com/file/d/1P4r8sqwDr3wQJyPU24_Fuelp8MbmMaca/view?usp=share_link">
       <img width="30" aling="center" src="google-drive.png">
     </a>
   </div>
