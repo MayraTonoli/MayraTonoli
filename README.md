@@ -39,3 +39,14 @@
       <img width="25" src="instagram.png"> 
     </a> -->
   </div>
+  
+  
+  <br>
+  
+  
+  <div aling="center">
+    <h3 align="center">Currículo</h3>
+    <a href = "https://drive.google.com/file/d/1P4r8sqwDr3wQJyPU24_Fuelp8MbmMaca/view?usp=share_link">
+      <img width="30" aling="center" src="gmail.svg">
+    </a>
+      </div>
