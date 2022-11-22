@@ -17,7 +17,7 @@
 
 <div align="center">
     <div style="display: inline_block"><br>
-      	<img align="left" height="250" alt="logo" src="2823496.png">
+      	<img align="left" height="200" alt="logo" src="2823496.png">
       <h3 align="center"> Meus conhecimentos</h3>
          <img align="center" height="30" width="40" alt="html-icon" src="html-5.png">
       	<img align="center" height="30" width="40" alt="css-icon" src="css-3.png">
@@ -40,13 +40,14 @@
     </a> -->
   </div>
   
+              
+  <hr>
+
   
-  <br>
   
-  
-  <div aling="center">
+  <div align="center">
     <h3 align="center">Currículo</h3>
     <a href = "https://drive.google.com/file/d/1P4r8sqwDr3wQJyPU24_Fuelp8MbmMaca/view?usp=share_link">
-      <img width="30" aling="center" src="gmail.svg">
+      <img width="30" aling="center" src="google-drive.png">
     </a>
-      </div>
+  </div>
