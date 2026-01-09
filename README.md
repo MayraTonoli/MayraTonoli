@@ -31,8 +31,7 @@
 
 <div align="center">
     <div style="display: inline_block"><br>
-      	<img align="left" height="200" alt="logo" src="2823496.png">
-      <h3 align="center"> Meus conhecimentos</h3>
+      	 <h3 align="center"> Meus conhecimentos</h3>
          <img align="center" height="30" width="40" alt="html-icon" src="html-5.png">
       	<img align="center" height="30" width="40" alt="css-icon" src="css-3.png">
      </div>
