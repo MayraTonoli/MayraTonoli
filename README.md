@@ -41,7 +41,7 @@
   
   <div align="center">
     <h3 align="center">Currículo</h3>
-      <a href = "https://drive.google.com/file/d/1P4r8sqwDr3wQJyPU24_Fuelp8MbmMaca/view?usp=share_link">
+      <a href = "https://docs.google.com/document/d/130NCK_uo2ek83Tj510XzPOYAQJEJWYttGZGwgftqB4s/edit?usp=sharing">
       <img width="30" aling="center" src="google-drive.png">
     </a>
   </div>
