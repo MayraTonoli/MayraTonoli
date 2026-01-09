@@ -25,7 +25,8 @@
       Projeto do DevQuest.
     </a>
   </p>
-  <p> Os demais sites criados, de forma profissional, possuem contrato que não me permitem postar. Caso tenha interesse e queiram conhecer, é só entrar em contato.</p>
+  <p> Os sites desenvolvidos profissionalmente, possuem contrato que não me permite postar para divulgação.<br>
+    Caso tenha interesse e queira conhecer, o contato está logo abaixo.</p>
 </div>         
 
 <div align="center">
@@ -38,13 +39,18 @@
      
         
    <div>
-    <h3 align="center">Entre em contato</h3>
-      <a href = "mailto: work.mayratonolijobs@gmail.com" target="_blank">
-         <img width="30" src="gmail.svg">
-      </a>
+     <h3 align="center">Entre em contato</h3>
+
+     <a href = "https://wa.link/z99a6o" target="_blank">
+         <img width="25" src="linkedin.svg">
+     </a>
+      
       <a href = "https://www.linkedin.com/in/mayratonoli/" target="_blank">
          <img width="25" src="linkedin.svg">
      </a>
+    
+      <a href = "mailto: work.mayratonolijobs@gmail.com" target="_blank">
+         <img width="30" src="gmail.svg"></a>
   </div>
   
               
