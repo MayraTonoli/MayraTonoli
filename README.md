@@ -8,10 +8,25 @@
        <div align="center">
         <h2 align="center">Portifólio</h2>
           <h4>Conheça alguns dos projetos desenvolvidos por mim</h4>
-            <a href = "https://mayratonoli.github.io/Projeto-site-pessoal/">
-          
-        
-      
+         <p>
+    <a href="https://mayratonoli.github.io/Projeto-site-pessoal/" target="_blank">
+      Primeiro projeto. Criado para conclusão de curso do Senac.
+    </a>
+  </p>
+
+  <p>
+    <a href="https://mayratonoli.github.io/Projeto-Pokedevs/" target="_blank">
+      Projeto do DevQuest.
+    </a>
+  </p>
+
+  <p>
+    <a href="https://mayratonoli.github.io/FrontEndMentor-CardMayra/" target="_blank">
+      Projeto do DevQuest.
+    </a>
+  </p>
+  <p> Os demais sites criados, de forma profissional, possuem contrato que não me permitem postar. Caso tenha interesse e queiram conhecer, é só entrar em contato.</p>
+</div>         
 
 <div align="center">
     <div style="display: inline_block"><br>
