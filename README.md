@@ -38,25 +38,23 @@
      </div>
      
         
-   <div>
-     <h3 align="center">Entre em contato</h3>
+<div align="center">
+  <h3>Entre em contato</h3>
 
-     <a href = "https://wa.link/z99a6o" target="_blank">
-         <img width="25" src="linkedin.svg">
-     </a>
-      
-      <a href = "https://www.linkedin.com/in/mayratonoli/" target="_blank">
-         <img width="25" src="linkedin.svg">
-     </a>
-    
-      <a href = "mailto: work.mayratonolijobs@gmail.com" target="_blank">
-         <img width="30" src="gmail.svg"></a>
-  </div>
-  
-              
-  <hr>
+  <a href="https://wa.link/z99a6o" target="_blank">
+    <img width="25" src="./whatsapp.png" alt="WhatsApp">
+  </a>
 
+  <a href="https://www.linkedin.com/in/mayratonoli/" target="_blank">
+    <img width="25" src="./linkedin.svg" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:work.mayratonolijobs@gmail.com">
+    <img width="30" src="./gmail.svg" alt="Email">
+  </a>
+</div>
   
+                
   
   <div align="center">
     <h3 align="center">Currículo</h3>
